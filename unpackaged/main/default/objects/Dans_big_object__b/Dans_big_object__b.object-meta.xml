@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>InDevelopment</deploymentStatus>
+    <indexes>
+        <fullName>New_index</fullName>
+        <fields>
+            <name>Email_address__c</name>
+            <sortDirection>ASC</sortDirection>
+        </fields>
+        <label>New index</label>
+    </indexes>
+    <label>Dan's big object</label>
+    <pluralLabel>Dan's big objects</pluralLabel>
+</CustomObject>
